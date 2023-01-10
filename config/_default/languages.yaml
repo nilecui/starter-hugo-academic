@@ -8,15 +8,30 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+Uncomment the lines below to configure your website in a second language.
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: Chinese website title...
+ params:
+   description: Site description in Chinese...
+ menu:
+   main:
+    - name: 首页
+      url: '#about'
+      weight: 10
+    - name: 博客
+      url: '#posts'
+      weight: 20
+    - name: 项目
+      url: '#projects'
+      weight: 30
+    - name: 话题
+      url: '#talks'
+      weight: 40
+    - name: 著作
+      url: '#featured'
+      weight: 50
+    - name: 联系
+      url: '#contact'
+      weight: 60
