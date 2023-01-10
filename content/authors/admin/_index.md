@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Cui wei tie 崔维铁
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: cui
+last_name: nile
 
 # Status emoji
 status:
