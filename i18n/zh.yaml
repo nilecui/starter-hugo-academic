@@ -262,6 +262,9 @@
 - id: cookie_learn
   translation: 了解更多
 
+- id: contact
+  translation: 联系方式
+
 # Published with
 
 - id: published_with
