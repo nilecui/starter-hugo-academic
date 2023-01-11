@@ -22,7 +22,7 @@ role: Python开发工程师
 #     url: https://www.abc.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 专注于AI的MLOps，好奇是知识的萌芽，不断追求的新的技术兴趣点，永无止境。
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,5 @@ email: 'cwt0408@gmail.com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+NileCui 目前就职于某AI公司，专注于NLP领域，负责AI工程化的MLOps, Service，分布式数据存储，以及工程化的Flow，涉及产品：智能化标注系统，事件分析系统等。
 {style="text-align: justify;"}
