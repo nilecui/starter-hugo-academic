@@ -46,9 +46,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: fa-python
+        - name: python
           description: 90%
-          icon: python
+          icon: fa-python
           icon_pack: fa-brands 
         - name: C
           description: 90%
