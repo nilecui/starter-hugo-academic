@@ -265,6 +265,12 @@
 - id: contact
   translation: 联系方式
 
+- id: projects
+  tranlation: 项目
+
+- id: skill
+  translation: 职业技能
+
 # Published with
 
 - id: published_with
