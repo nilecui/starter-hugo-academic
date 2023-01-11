@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cui wei tie 崔维铁
+title: Cui wei tie
 
 # Full name (for SEO)
 first_name: cui
