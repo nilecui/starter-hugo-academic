@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cui wei tie
+title: Nile Cui
 
 # Full name (for SEO)
 first_name: cui
@@ -17,9 +17,9 @@ superuser: true
 role: Python开发工程师
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: 中科雨辰科技有限公司
-    url: https://www.rraisun.com/
+# organizations:
+#   - name: abc
+#     url: https://www.abc.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
