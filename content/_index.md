@@ -49,8 +49,7 @@ sections:
       items:
         - name: python
           description: 90%
-          icon: fa-python
-          icon_pack: fa-brands 
+          icon: python2
         - name: C
           description: 90%
           icon: chart-line
